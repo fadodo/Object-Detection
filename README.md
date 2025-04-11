@@ -27,4 +27,4 @@ Figure displays the results of an automatic tree detection algorithm applied to 
 
 The figure suggests that the automatic tree detection algorithm has successfully identified a significant number of individual trees within the scene. The red bounding boxes appear to closely encapsulate the visible tree canopies.
 
-![tree detection image](https://external-website.com/images/your_image.png)
+![tree detection image](https://github.com/fadodo/Object-Detection/blob/main/treedetect.png)
